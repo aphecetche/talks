@@ -134,6 +134,14 @@ Reminder of :
 
 + global O2 "objects", e.g. the most important TimeFrame
 
+* Event vs Time Frame
+
+In Run I, II the basic "data blocks" were about events
+
+In Run III what will transit between tasks will be "Time Frames"
+
+Nominal TimeFrame duration is 20ms (i.e. 1000 events)
+
 * The Muon reconstruction condition data (and their sources)
 
 Fixed
